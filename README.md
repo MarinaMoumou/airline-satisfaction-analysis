@@ -2,7 +2,7 @@
 
 *Statistical analysis (R) of airline passenger satisfaction survey data — correlation, chi-square independence tests, and non-parametric group comparisons. English summary below.*
 
-Projet réalisé en binôme avec **Sara El Amri** dans le cadre du Master 1
+Projet réalisé dans le cadre du Master 1
 Data Analyst (IAE Paris-Est, Université Gustave Eiffel).
 
 ## Problématique
@@ -88,8 +88,7 @@ R — `tidyverse`, `dplyr`, `MASS`, `Hmisc`, `rstatix`, `questionr`,
 
 ## English summary
 
-This project (paired coursework with Sara El Amri, Master 1 Data Analyst)
-analyzes the public Kaggle "Airline Passenger Satisfaction" dataset to
+This project analyzes the public Kaggle "Airline Passenger Satisfaction" dataset to
 identify the strongest drivers of passenger satisfaction. After sampling
 and cleaning, it runs univariate descriptive statistics, Pearson
 correlations, chi-square independence tests (with standardized residuals
